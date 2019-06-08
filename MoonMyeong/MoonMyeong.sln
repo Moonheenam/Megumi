@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WangWang", "WangWang", "{24
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Megumi", "Megumi", "{C86CEE18-5405-4AA7-8E11-BAE9F26EACA4}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WangMain", "WangMain\WangMain.vbproj", "{29F0693D-81C1-4B35-856B-395306AC4064}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,9 +21,16 @@ Global
 		{D98639BF-DFB4-448B-B0D4-CB305E089464}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D98639BF-DFB4-448B-B0D4-CB305E089464}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D98639BF-DFB4-448B-B0D4-CB305E089464}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29F0693D-81C1-4B35-856B-395306AC4064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29F0693D-81C1-4B35-856B-395306AC4064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29F0693D-81C1-4B35-856B-395306AC4064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29F0693D-81C1-4B35-856B-395306AC4064}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{29F0693D-81C1-4B35-856B-395306AC4064} = {24CB86C6-D99B-4B54-9D7D-CA056C090775}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0C254541-FC1C-43E6-81A5-1C718281DC56}
